@@ -1,0 +1,4 @@
+pastikan saat kita membuat module kita manambahkan tag'nya 
+dengan cara:
+    1. git tag (version) --> git tag v1.0.0
+    2. git push origin (tag) --> git push origin v1.0.0
